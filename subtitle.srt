@@ -1,0 +1,6 @@
+1
+00:00:00,800 --> 00:00:09,800
+At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium volaptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint accaecati cupiditate non providente, similique sunt in culpa qui officia deserunt.
+
+
+
